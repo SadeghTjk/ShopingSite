@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Side By Side Refrigerator",
+    "price" : 18000000,
+    "id": 1,
+    "checked": 0
+  },
+  {
+    "name": "Side By Side LG",
+    "price" : 15000000,
+    "id": 2,
+    "checked": 0
+  },
+  {
+    "name": "LG TV",
+    "price" : 5000000,
+    "id": 3,
+    "checked": 0
+  },
+  {
+    "name": "Side By Side LG",
+    "price" : 18000000,
+    "id": 4,
+    "checked": 0
+  },
+  {
+    "name": "Side By Side LG",
+    "price" : 18000000,
+    "id": 5,
+    "checked": 0
+  },
+  {
+    "name": "Side By Side LG",
+    "price" : 18000000,
+    "id": 6,
+    "checked": 0
+  },
+  {
+    "name": "Side By Side LG",
+    "price" : 18000000,
+    "id": 7,
+    "checked": 0
+  },
+  {
+    "name": "یخچال ساید بای ساید",
+    "price" : 18000000,
+    "id": 8,
+    "checked": 0
+  },
+  {
+    "name": "یخچال ساید بای ساید",
+    "price" : 18000000,
+    "id": 9,
+    "checked": 0
+  }
+]
